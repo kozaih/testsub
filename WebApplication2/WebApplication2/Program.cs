@@ -30,7 +30,11 @@ namespace WebApplication2
 
 		// sesese
 
+<<<<<<< HEAD
 		// aoaoao
+=======
+// sssssss
+>>>>>>> 6ca74ea (testsub commit sssss)
 
 	}
 }
