@@ -22,5 +22,11 @@ namespace WebApplication2
 				.UseStartup<Startup>();
 
 		// コメントコメントコメント
+		// komennnnnnn
+
+		// dededede
+
+		// naninani
+
 	}
 }
