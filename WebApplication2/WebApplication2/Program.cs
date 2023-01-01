@@ -30,7 +30,11 @@ namespace WebApplication2
 
 		// sesese
 
+<<<<<<< HEAD
 ddddd
+=======
+		// aaaaaaoooooo
+>>>>>>> dba1bc3 (testsub commit aaaaaaoooooo)
 
 	}
 }
