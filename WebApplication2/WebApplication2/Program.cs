@@ -10,39 +10,39 @@ using Microsoft.Extensions.Logging;
 
 namespace WebApplication2
 {
-	public class Program
-	{
-		public static void Main(string[] args)
-		{
-			CreateWebHostBuilder(args).Build().Run();
-		}
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            CreateWebHostBuilder(args).Build().Run();
+        }
 
-		public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
-			WebHost.CreateDefaultBuilder(args)
-				.UseStartup<Startup>();
+        public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
+            WebHost.CreateDefaultBuilder(args)
+                .UseStartup<Startup>();
 
-		// コメントコメントコメント
-		// komennnnnnn
+        // コメントコメントコメント
+        // komennnnnnn
 
-		// dededede
+        // dededede
 
-		// naninani
+        // naninani
 
-		// sesese
+        // sesese
 
-//ddddd
-		// aaaaaaoooooo
+        //ddddd
+        // aaaaaaoooooo
 
-		// yyuu
+        // 追加
 
-		// were
+        // yyuu
+
+        // were
 
         // develop4 add
 
         // develop4-2 add
-		
-		// develop3 add
 
-		// develop3 333 add
-	}
+        // develop3 add
+    }
 }
