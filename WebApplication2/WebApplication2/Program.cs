@@ -39,8 +39,6 @@ namespace WebApplication2
 
 		// were
 
-		// develop3 333 add
-
         // develop4 add
 
         // develop4-2 add
