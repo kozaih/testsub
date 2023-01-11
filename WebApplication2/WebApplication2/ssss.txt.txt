@@ -1,7 +1,5 @@
 ss
 
-xxy
-
 develop4 add del
 
 develop3 add
@@ -9,7 +7,7 @@ develop3 add
 develop5 add del
 
 develop4 add2
-
+A
 new line1
-
+A
 new line2
